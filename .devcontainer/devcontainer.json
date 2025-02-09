@@ -37,7 +37,8 @@
     "ms-python.vscode-pylance",
     "platformio.platformio-ide",
     "marlinfirmware.auto-build",
-    "editorconfig.editorconfig"
+    "editorconfig.editorconfig",
+    "tomoki1207.pdf"
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
